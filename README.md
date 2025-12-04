@@ -2,6 +2,10 @@
 
 A Streamlit-based application that uses Google's Gemini model to perform multimodal reasoning tasks with uploaded images.
 
+## Demo
+
+https://github.com/geeky-brahma/multi-modal-ai/Multi-modal-ai-demo.mp4
+
 ## Requirements
 
 - Python 3.x
