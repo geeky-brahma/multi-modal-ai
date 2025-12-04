@@ -4,11 +4,8 @@ A Streamlit-based application that uses Google's Gemini model to perform multimo
 
 ## Demo
 
-
 https://github.com/user-attachments/assets/600bee1c-0056-4eca-ba76-551020a51486
 
-
-[![Watch the video]()](https://github.com/geeky-brahma/multi-modal-ai/blob/main/Multi-modal-ai-demo.mp4)
 
 ## Requirements
 
